@@ -1,0 +1,2 @@
+List<Datatype> listName = cool List<Datatype>();
+ex: List<float> myList = cool List<float>();
